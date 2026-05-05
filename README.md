@@ -1,4 +1,7 @@
 # leetcode-solutions
+## LeetCode Profile
+
+[![LeetCode Stats](myleetprofile.png)](https://leetcode.com/u/auamores/)
 
 > Systematic algorithmic problem solving — written clean, reasoned carefully.
 
@@ -85,4 +88,4 @@ This repo is a working document, not a showcase. Expect ongoing commits.
 
 ## LeetCode Profile
 
-[![LeetCode Stats](myleetprofile.png)](https://leetcode.com/u/auamores/)
+
