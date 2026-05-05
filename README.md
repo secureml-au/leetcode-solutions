@@ -82,3 +82,7 @@ This repo is a working document, not a showcase. Expect ongoing commits.
 ---
 
 <sub>MIT License</sub>
+
+## LeetCode Profile
+
+[![LeetCode Stats](myleetprofile.png)](https://leetcode.com/u/auamores/)
