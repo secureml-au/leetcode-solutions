@@ -1,7 +1,7 @@
 # leetcode-solutions
 ## LeetCode Profile
 
-[![LeetCode Stats](myleetprofile.png)](https://leetcode.com/u/auamores/)
+<img width="1314" height="303" alt="Image" src="https://github.com/user-attachments/assets/c649626c-7ce3-4d55-a61e-e20a7a6de749" />
 
 > Systematic algorithmic problem solving — written clean, reasoned carefully.
 
