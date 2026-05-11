@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LeetCode%20Solutions&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=by%20Au%20%E2%80%94%20Systematic.%20Clean.%20Deliberate.&descAlignY=60&descSize=18" width="100%"/>
-<img width="1287" height="315" alt="Image" src="https://github.com/user-attachments/assets/e03b6ac3-7f05-46d5-814d-31f64abaf5dc" />
+<img width="1297" height="307" alt="Image" src="https://github.com/user-attachments/assets/d166c39e-c5b6-4ca0-b526-5b5a1c8dcb9a" />
 
 <!-- Badges -->
 [![LeetCode](https://img.shields.io/badge/LeetCode-auamores-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/auamores/)
